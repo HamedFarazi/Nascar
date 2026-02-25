@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Daytona International Speedway",
+    "location": "Daytona Beach, Florida",
+    "length": 2.5,
+    "type": "Superspeedway",
+    "yearOpened": 1959,
+    "image": "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800&q=80",
+    "slug": "daytona",
+    "description": "The most iconic speedway in NASCAR, Daytona International Speedway is known for its 31-degree banking and high-speed racing.",
+    "history": "Opened in 1959, Daytona has hosted the legendary Daytona 500, the crown jewel of NASCAR racing. The speedway's unique characteristics have made it a favorite among drivers and fans alike. With its iconic lightning bolt logo and historic moments, Daytona represents the pinnacle of American motorsports."
+  },
+  {
+    "id": "2",
+    "name": "Talladega Superspeedway",
+    "location": "Talladega, Alabama",
+    "length": 2.66,
+    "type": "Superspeedway",
+    "yearOpened": 1969,
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b83ad38?w=800&q=80",
+    "slug": "talladega",
+    "description": "America's longest NASCAR track, Talladega Superspeedway features a 33-degree banking that creates thrilling side-by-side racing.",
+    "history": "Talladega Superspeedway opened its gates in 1969 and has become a cornerstone of NASCAR racing. The track's steep banking and extended length have produced some of the most exciting finishes in racing history. Known for competitive battles and unexpected moments, Talladega remains one of the most unpredictable tracks on the circuit."
+  },
+  {
+    "id": "3",
+    "name": "Charlotte Motor Speedway",
+    "location": "Concord, North Carolina",
+    "length": 1.5,
+    "type": "Oval",
+    "yearOpened": 1960,
+    "image": "https://images.unsplash.com/photo-1586611876648-2e1d6f12f4ad?w=800&q=80",
+    "slug": "charlotte",
+    "description": "Located in the heart of racing country, Charlotte Motor Speedway is known for its mile-and-a-half D-shaped oval with 24-degree banking.",
+    "history": "Charlotte Motor Speedway has been a prestigious venue since 1960, hosting multiple NASCAR events throughout the season. The track's design allows for intense side-by-side racing and dramatic passing maneuvers. Charlotte has become a destination track where champions are crowned and records are set."
+  }
+]
