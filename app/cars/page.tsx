@@ -1,7 +1,7 @@
 import { GlassCard } from "@/components/glass-card";
 import { StatsGrid } from "@/components/stats-grid";
 import { nextGenCar } from "@/lib/data/cars";
-import { Zap, Gauge, Engine } from "lucide-react";
+import { Zap, Gauge, Car } from "lucide-react";
 
 export default function CarsPage() {
   const performanceStats = [
