@@ -80,15 +80,15 @@ export default function CarsPage() {
           </GlassCard>
 
           <GlassCard className="p-8">
-            <div className="flex items-center justify-center w-16 h-16 rounded-lg bg-red-500/20 mb-6">
-              <Engine className="w-8 h-8 text-red-500" />
-            </div>
-            <h3 className="text-2xl font-bold text-white mb-4">Engine</h3>
-            <p className="text-gray-300 mb-4">{nextGenCar.engine}</p>
-            <p className="text-sm text-gray-400">
-              Produces {nextGenCar.horsepower} HP of raw power
-            </p>
-          </GlassCard>
+  <div className="flex items-center justify-center w-16 h-16 rounded-lg bg-red-500/20 mb-6">
+    <Car className="w-8 h-8 text-red-500" />
+  </div>
+  <h3 className="text-2xl font-bold text-white mb-4">Engine</h3>
+  <p className="text-gray-300 mb-4">{nextGenCar.engine}</p>
+  <p className="text-sm text-gray-400">
+    Produces {nextGenCar.horsepower} HP of raw power
+  </p>
+</GlassCard>
         </div>
 
         {/* Full Specifications */}
